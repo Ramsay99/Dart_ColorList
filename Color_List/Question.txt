@@ -1,0 +1,32 @@
+List Colors = [
+    "blue",
+    "greenAccent",
+    "green",
+    "pink",
+    "gray",
+    "purple",
+    "wheat",
+    ["black", "green", "red", "white"],
+    "orange",
+    "yellow"
+        "amber",
+    "darkbrown",
+    ["dark pink", "dark red", "dark blue", "dark purple"],
+    "lime",
+    "teal",
+    ["light Blue", "ligt green", "light red"],
+  ];
+/*Req
+1- check if we have the color white inside our list 
+2- add the color Rose between pink and gray
+3- remove the light green from our list and print the index that it was in ("  $index") 
+4- add the following items inside one item {cayan - indigo- deeppurple -brown} after the lime
+5 - print the place of darkbrown 
+6- check if we have redAccent in our list and if no just add it to the last index 
+7- update the value of teal to be dark teal 
+8 - print the list before and after the clear 
+9- print the items in reversed way 
+10 - remove the last item in your list and let me see the result 
+11- there is a method called removeRange please figure what it suppose to do and print for me
+the follow 
+"i have found that the method of removeRange do the following and here is my output ${your output} below. "
